@@ -1,3 +1,3 @@
 PDF CREATOR
-* Creates pdf and send to e-mail
-* FPDF and mail function was used in this small project
+* Creates pdf using FPDF
+* This is a part of pdf creation and send to e-mail script that i've done in a project.

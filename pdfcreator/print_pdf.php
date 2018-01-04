@@ -132,7 +132,7 @@ if (isset($_POST['submitForm'])) {
 		$pdf = new PDF();
 		$title = 'Request Contracting';
 		$pdf->SetTitle($title);
-		$pdf->SetAuthor('ImgBrokerage');
+		$pdf->SetAuthor('JM Maguigz');
 		$pdf->FormatChapter($_POST,$target_file);
 		$pdf->Output();		
 	}
